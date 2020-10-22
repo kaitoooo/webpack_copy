@@ -1,0 +1,2 @@
+# webpack_copy
+HTMLやPHPファイルをそのままコピーしたい時に使用する
