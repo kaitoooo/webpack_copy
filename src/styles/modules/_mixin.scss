@@ -1,0 +1,10 @@
+@mixin common-font {
+  color: blue;
+  line-height: 1.5;
+}
+@mixin center {
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+}
